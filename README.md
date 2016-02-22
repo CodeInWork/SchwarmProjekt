@@ -1,3 +1,4 @@
+SchwarmProjekt
 
 Dieses Projekt entstand ursprünglich im Rahmen des Kurses „Kunst und Wissenschaft“ an der TUB. Eine Zahl von Punkten bewegt sich auf einer 
 grafischen Oberfläche und verfügt über die selben Verhaltensmaximen wie in Schwärmen lebende Tiere wie Vögel und Fische. Die Regeln sind 
